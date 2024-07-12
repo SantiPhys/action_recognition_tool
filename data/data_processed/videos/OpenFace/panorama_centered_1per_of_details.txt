@@ -1,0 +1,13 @@
+Input:/home/groupwork/groupwork-tool/data/data_raw/videos/360/panorama_centered_1per.MP4
+Input full path:/home/groupwork/groupwork-tool/data/data_raw/videos/360/panorama_centered_1per.MP4
+Camera parameters:1312.5,1312.5,960,540
+Output HOG:panorama_centered_1per.hog
+Output video:panorama_centered_1per.avi
+Output aligned directory:panorama_centered_1per_aligned
+Output csv:panorama_centered_1per.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1

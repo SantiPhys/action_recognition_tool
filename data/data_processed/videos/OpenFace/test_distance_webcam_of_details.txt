@@ -1,0 +1,10 @@
+Input:/home/groupwork/groupwork-tool/data/data_raw/videos/test_distance_webcam.avi
+Input full path:/home/groupwork/groupwork-tool/data/data_raw/videos/test_distance_webcam.avi
+Camera parameters:587.5,587.5,432,240
+Output csv:test_distance_webcam.csv
+Gaze: 0
+AUs: 0
+Landmarks 2D: 0
+Landmarks 3D: 0
+Pose: 1
+Shape parameters: 0
