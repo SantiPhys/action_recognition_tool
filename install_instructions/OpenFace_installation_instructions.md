@@ -1,17 +1,15 @@
 # OpenFace Setup Instructions for Action Recognition Application
 
-Unfortunately, the provided install script in the standard OpenFace repository doesn't work properly in the environments we have at the lab. Therefore, we will have to install the dependencies manually. You will need superuser rights for the installation. 
+Unfortunately, the provided install script in the standard OpenFace repository doesn't work properly in the environments we have at the lab (Ubuntu > 20.00.00). Therefore, we will have to install the dependencies manually. You will need superuser rights for the installation. 
 
-If during the sinstallation any command `<comand_example>` displays the message `permission denied` (or similar), just replace `<comand_example>`  with `sudo <comand_example>` and continue with the installation. 
+If during the installation any command `<comand_example>` displays the message `permission denied` (or similar), just replace `<comand_example>`  with `sudo <comand_example>` and continue with the installation. 
 
 ## Step-by-Step Instructions
 
 ### 1. Clone the GitHub Repository
 
-*(Note: The repository link will be added here once it's available.)*
-
 ```sh
-git clone <repo_link>
+git clone https://github.com/SantiPhys/action_recognition_tool.git
 cd <repo_name>/headpose
 ```
 
