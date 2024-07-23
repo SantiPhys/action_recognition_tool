@@ -10,7 +10,7 @@ If during the installation any command `<comand_example>` displays the message `
 
 ```sh
 git clone https://github.com/SantiPhys/action_recognition_tool.git
-cd <repo_name>/headpose
+cd action_recognition_tool/headpose
 ```
 
 ### 2. Install GStreamer
